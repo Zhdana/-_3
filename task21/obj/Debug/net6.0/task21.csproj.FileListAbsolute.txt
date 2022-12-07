@@ -1,0 +1,15 @@
+C:\Users\Ждана-PC\Desktop\Обучение тестировщик ПО\GB\знакомство с языками программирования\ДЗ_3\task21\bin\Debug\net6.0\task21.exe
+C:\Users\Ждана-PC\Desktop\Обучение тестировщик ПО\GB\знакомство с языками программирования\ДЗ_3\task21\bin\Debug\net6.0\task21.deps.json
+C:\Users\Ждана-PC\Desktop\Обучение тестировщик ПО\GB\знакомство с языками программирования\ДЗ_3\task21\bin\Debug\net6.0\task21.runtimeconfig.json
+C:\Users\Ждана-PC\Desktop\Обучение тестировщик ПО\GB\знакомство с языками программирования\ДЗ_3\task21\bin\Debug\net6.0\task21.dll
+C:\Users\Ждана-PC\Desktop\Обучение тестировщик ПО\GB\знакомство с языками программирования\ДЗ_3\task21\bin\Debug\net6.0\task21.pdb
+C:\Users\Ждана-PC\Desktop\Обучение тестировщик ПО\GB\знакомство с языками программирования\ДЗ_3\task21\obj\Debug\net6.0\task21.csproj.AssemblyReference.cache
+C:\Users\Ждана-PC\Desktop\Обучение тестировщик ПО\GB\знакомство с языками программирования\ДЗ_3\task21\obj\Debug\net6.0\task21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ждана-PC\Desktop\Обучение тестировщик ПО\GB\знакомство с языками программирования\ДЗ_3\task21\obj\Debug\net6.0\task21.AssemblyInfoInputs.cache
+C:\Users\Ждана-PC\Desktop\Обучение тестировщик ПО\GB\знакомство с языками программирования\ДЗ_3\task21\obj\Debug\net6.0\task21.AssemblyInfo.cs
+C:\Users\Ждана-PC\Desktop\Обучение тестировщик ПО\GB\знакомство с языками программирования\ДЗ_3\task21\obj\Debug\net6.0\task21.csproj.CoreCompileInputs.cache
+C:\Users\Ждана-PC\Desktop\Обучение тестировщик ПО\GB\знакомство с языками программирования\ДЗ_3\task21\obj\Debug\net6.0\task21.dll
+C:\Users\Ждана-PC\Desktop\Обучение тестировщик ПО\GB\знакомство с языками программирования\ДЗ_3\task21\obj\Debug\net6.0\refint\task21.dll
+C:\Users\Ждана-PC\Desktop\Обучение тестировщик ПО\GB\знакомство с языками программирования\ДЗ_3\task21\obj\Debug\net6.0\task21.pdb
+C:\Users\Ждана-PC\Desktop\Обучение тестировщик ПО\GB\знакомство с языками программирования\ДЗ_3\task21\obj\Debug\net6.0\task21.genruntimeconfig.cache
+C:\Users\Ждана-PC\Desktop\Обучение тестировщик ПО\GB\знакомство с языками программирования\ДЗ_3\task21\obj\Debug\net6.0\ref\task21.dll
